@@ -1,0 +1,172 @@
+C:\Users\PC\Desktop\Protein Mağazası\Protein Mağazası\Protein Mağazası\bin\Debug\Protein Mağazası.exe.config
+C:\Users\PC\Desktop\Protein Mağazası\Protein Mağazası\Protein Mağazası\bin\Debug\Protein Mağazası.exe
+C:\Users\PC\Desktop\Protein Mağazası\Protein Mağazası\Protein Mağazası\bin\Debug\Protein Mağazası.pdb
+C:\Users\PC\Desktop\Protein Mağazası\Protein Mağazası\Protein Mağazası\bin\Debug\Bunifu.UI.WinForms.xml
+C:\Users\PC\Desktop\Protein Mağazası\Protein Mağazası\Protein Mağazası\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\PC\Desktop\Protein Mağazası\Protein Mağazası\Protein Mağazası\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\PC\Desktop\Protein Mağazası\Protein Mağazası\Protein Mağazası\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+C:\Users\PC\Desktop\Protein Mağazası\Protein Mağazası\Protein Mağazası\bin\Debug\Microsoft.Win32.SystemEvents.xml
+C:\Users\PC\Desktop\Protein Mağazası\Protein Mağazası\Protein Mağazası\bin\Debug\Newtonsoft.Json.xml
+C:\Users\PC\Desktop\Protein Mağazası\Protein Mağazası\Protein Mağazası\bin\Debug\RestSharp.xml
+C:\Users\PC\Desktop\Protein Mağazası\Protein Mağazası\Protein Mağazası\bin\Debug\System.Buffers.xml
+C:\Users\PC\Desktop\Protein Mağazası\Protein Mağazası\Protein Mağazası\bin\Debug\System.CodeDom.xml
+C:\Users\PC\Desktop\Protein Mağazası\Protein Mağazası\Protein Mağazası\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\PC\Desktop\Protein Mağazası\Protein Mağazası\Protein Mağazası\bin\Debug\System.Data.Odbc.xml
+C:\Users\PC\Desktop\Protein Mağazası\Protein Mağazası\Protein Mağazası\bin\Debug\System.Data.OleDb.xml
+C:\Users\PC\Desktop\Protein Mağazası\Protein Mağazası\Protein Mağazası\bin\Debug\System.Data.SqlClient.xml
+C:\Users\PC\Desktop\Protein Mağazası\Protein Mağazası\Protein Mağazası\bin\Debug\System.Diagnostics.EventLog.xml
+C:\Users\PC\Desktop\Protein Mağazası\Protein Mağazası\Protein Mağazası\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+C:\Users\PC\Desktop\Protein Mağazası\Protein Mağazası\Protein Mağazası\bin\Debug\System.Drawing.Common.xml
+C:\Users\PC\Desktop\Protein Mağazası\Protein Mağazası\Protein Mağazası\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\Users\PC\Desktop\Protein Mağazası\Protein Mağazası\Protein Mağazası\bin\Debug\System.IO.Packaging.xml
+C:\Users\PC\Desktop\Protein Mağazası\Protein Mağazası\Protein Mağazası\bin\Debug\System.IO.Ports.xml
+C:\Users\PC\Desktop\Protein Mağazası\Protein Mağazası\Protein Mağazası\bin\Debug\System.Memory.xml
+C:\Users\PC\Desktop\Protein Mağazası\Protein Mağazası\Protein Mağazası\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\PC\Desktop\Protein Mağazası\Protein Mağazası\Protein Mağazası\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\PC\Desktop\Protein Mağazası\Protein Mağazası\Protein Mağazası\bin\Debug\System.Security.AccessControl.xml
+C:\Users\PC\Desktop\Protein Mağazası\Protein Mağazası\Protein Mağazası\bin\Debug\System.Security.Cryptography.Cng.xml
+C:\Users\PC\Desktop\Protein Mağazası\Protein Mağazası\Protein Mağazası\bin\Debug\System.Security.Cryptography.Pkcs.xml
+C:\Users\PC\Desktop\Protein Mağazası\Protein Mağazası\Protein Mağazası\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\PC\Desktop\Protein Mağazası\Protein Mağazası\Protein Mağazası\bin\Debug\System.Security.Cryptography.Xml.xml
+C:\Users\PC\Desktop\Protein Mağazası\Protein Mağazası\Protein Mağazası\bin\Debug\System.Security.Permissions.xml
+C:\Users\PC\Desktop\Protein Mağazası\Protein Mağazası\Protein Mağazası\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\PC\Desktop\Protein Mağazası\Protein Mağazası\Protein Mağazası\bin\Debug\System.ServiceModel.Syndication.xml
+C:\Users\PC\Desktop\Protein Mağazası\Protein Mağazası\Protein Mağazası\bin\Debug\System.ServiceProcess.ServiceController.xml
+C:\Users\PC\Desktop\Protein Mağazası\Protein Mağazası\Protein Mağazası\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\PC\Desktop\Protein Mağazası\Protein Mağazası\Protein Mağazası\bin\Debug\System.Threading.AccessControl.xml
+C:\Users\PC\Desktop\Protein Mağazası\Protein Mağazası\Protein Mağazası\obj\Debug\Protein Mağazası.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Protein Mağazası\Protein Mağazası\Protein Mağazası\obj\Debug\Protein Mağazası.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\Desktop\Protein Mağazası\Protein Mağazası\Protein Mağazası\obj\Debug\Protein_Mağazası.Form1.resources
+C:\Users\PC\Desktop\Protein Mağazası\Protein Mağazası\Protein Mağazası\obj\Debug\Protein_Mağazası.Properties.Resources.resources
+C:\Users\PC\Desktop\Protein Mağazası\Protein Mağazası\Protein Mağazası\obj\Debug\Protein Mağazası.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\Protein Mağazası\Protein Mağazası\Protein Mağazası\obj\Debug\Protein Mağazası.exe.licenses
+C:\Users\PC\Desktop\Protein Mağazası\Protein Mağazası\Protein Mağazası\obj\Debug\Protein Mağazası.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Protein Mağazası\Protein Mağazası\Protein Mağazası\obj\Debug\Protein Mağazası.csproj.Fody.CopyLocal.cache
+C:\Users\PC\Desktop\Protein Mağazası\Protein Mağazası\Protein Mağazası\obj\Debug\Protein Mağazası.csproj.CopyComplete
+C:\Users\PC\Desktop\Protein Mağazası\Protein Mağazası\Protein Mağazası\obj\Debug\Protein Mağazası.exe
+C:\Users\PC\Desktop\Protein Mağazası\Protein Mağazası\Protein Mağazası\obj\Debug\Protein Mağazası.pdb
+C:\Users\PC\Desktop\Protein Mağazası\Protein Mağazası\Protein Mağazası\bin\Debug\Bunifu.Charts.WinForms.xml
+C:\Users\PC\Desktop\Protein Mağazası\Protein Mağazası\Protein Mağazası\obj\Debug\Protein_Mağazası.Splash.resources
+C:\Users\PC\Desktop\Protein Mağazası\Protein Mağazası\Protein Mağazası\obj\Debug\Protein_Mağazası.UrunFormu.resources
+C:\Users\PC\Desktop\Protein Mağazası\Protein Mağazası\Protein Mağazası\obj\Debug\Protein_Mağazası.KategoriForm.resources
+C:\Users\PC\Desktop\Protein Mağazası\Protein Mağazası\Protein Mağazası\obj\Debug\Protein_Mağazası.SatıcıFormu.resources
+C:\Users\PC\Desktop\Protein Mağazası\Protein Mağazası\Protein Mağazası\obj\Debug\Protein_Mağazası.SatisFormu.resources
+C:\Users\PC\Desktop\adasd\Protein Mağazası\bin\Debug\Protein Mağazası.exe.config
+C:\Users\PC\Desktop\adasd\Protein Mağazası\bin\Debug\Protein Mağazası.exe
+C:\Users\PC\Desktop\adasd\Protein Mağazası\bin\Debug\Protein Mağazası.pdb
+C:\Users\PC\Desktop\adasd\Protein Mağazası\bin\Debug\Bunifu.Charts.WinForms.xml
+C:\Users\PC\Desktop\adasd\Protein Mağazası\bin\Debug\Bunifu.UI.WinForms.xml
+C:\Users\PC\Desktop\adasd\Protein Mağazası\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\PC\Desktop\adasd\Protein Mağazası\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\PC\Desktop\adasd\Protein Mağazası\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+C:\Users\PC\Desktop\adasd\Protein Mağazası\bin\Debug\Microsoft.Win32.SystemEvents.xml
+C:\Users\PC\Desktop\adasd\Protein Mağazası\bin\Debug\Newtonsoft.Json.xml
+C:\Users\PC\Desktop\adasd\Protein Mağazası\bin\Debug\RestSharp.xml
+C:\Users\PC\Desktop\adasd\Protein Mağazası\bin\Debug\System.Buffers.xml
+C:\Users\PC\Desktop\adasd\Protein Mağazası\bin\Debug\System.CodeDom.xml
+C:\Users\PC\Desktop\adasd\Protein Mağazası\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\PC\Desktop\adasd\Protein Mağazası\bin\Debug\System.Data.Odbc.xml
+C:\Users\PC\Desktop\adasd\Protein Mağazası\bin\Debug\System.Data.OleDb.xml
+C:\Users\PC\Desktop\adasd\Protein Mağazası\bin\Debug\System.Data.SqlClient.xml
+C:\Users\PC\Desktop\adasd\Protein Mağazası\bin\Debug\System.Diagnostics.EventLog.xml
+C:\Users\PC\Desktop\adasd\Protein Mağazası\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+C:\Users\PC\Desktop\adasd\Protein Mağazası\bin\Debug\System.Drawing.Common.xml
+C:\Users\PC\Desktop\adasd\Protein Mağazası\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\Users\PC\Desktop\adasd\Protein Mağazası\bin\Debug\System.IO.Packaging.xml
+C:\Users\PC\Desktop\adasd\Protein Mağazası\bin\Debug\System.IO.Ports.xml
+C:\Users\PC\Desktop\adasd\Protein Mağazası\bin\Debug\System.Memory.xml
+C:\Users\PC\Desktop\adasd\Protein Mağazası\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\PC\Desktop\adasd\Protein Mağazası\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\PC\Desktop\adasd\Protein Mağazası\bin\Debug\System.Security.AccessControl.xml
+C:\Users\PC\Desktop\adasd\Protein Mağazası\bin\Debug\System.Security.Cryptography.Cng.xml
+C:\Users\PC\Desktop\adasd\Protein Mağazası\bin\Debug\System.Security.Cryptography.Pkcs.xml
+C:\Users\PC\Desktop\adasd\Protein Mağazası\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\PC\Desktop\adasd\Protein Mağazası\bin\Debug\System.Security.Cryptography.Xml.xml
+C:\Users\PC\Desktop\adasd\Protein Mağazası\bin\Debug\System.Security.Permissions.xml
+C:\Users\PC\Desktop\adasd\Protein Mağazası\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\PC\Desktop\adasd\Protein Mağazası\bin\Debug\System.ServiceModel.Syndication.xml
+C:\Users\PC\Desktop\adasd\Protein Mağazası\bin\Debug\System.ServiceProcess.ServiceController.xml
+C:\Users\PC\Desktop\adasd\Protein Mağazası\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\PC\Desktop\adasd\Protein Mağazası\bin\Debug\System.Threading.AccessControl.xml
+C:\Users\PC\Desktop\adasd\Protein Mağazası\obj\Debug\Protein Mağazası.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\adasd\Protein Mağazası\obj\Debug\Protein Mağazası.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\Desktop\adasd\Protein Mağazası\obj\Debug\Protein_Mağazası.Form1.resources
+C:\Users\PC\Desktop\adasd\Protein Mağazası\obj\Debug\Protein_Mağazası.KategoriForm.resources
+C:\Users\PC\Desktop\adasd\Protein Mağazası\obj\Debug\Protein_Mağazası.Properties.Resources.resources
+C:\Users\PC\Desktop\adasd\Protein Mağazası\obj\Debug\Protein_Mağazası.SatisFormu.resources
+C:\Users\PC\Desktop\adasd\Protein Mağazası\obj\Debug\Protein_Mağazası.SatıcıFormu.resources
+C:\Users\PC\Desktop\adasd\Protein Mağazası\obj\Debug\Protein_Mağazası.Splash.resources
+C:\Users\PC\Desktop\adasd\Protein Mağazası\obj\Debug\Protein_Mağazası.UrunFormu.resources
+C:\Users\PC\Desktop\adasd\Protein Mağazası\obj\Debug\Protein Mağazası.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\adasd\Protein Mağazası\obj\Debug\Protein Mağazası.exe.licenses
+C:\Users\PC\Desktop\adasd\Protein Mağazası\obj\Debug\Protein Mağazası.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\adasd\Protein Mağazası\obj\Debug\Protein Mağazası.csproj.Fody.CopyLocal.cache
+C:\Users\PC\Desktop\adasd\Protein Mağazası\obj\Debug\Protein Mağazası.csproj.CopyComplete
+C:\Users\PC\Desktop\adasd\Protein Mağazası\obj\Debug\Protein Mağazası.exe
+C:\Users\PC\Desktop\adasd\Protein Mağazası\obj\Debug\Protein Mağazası.pdb
+C:\Users\PC\Desktop\BESFIT\Protein Mağazası\bin\Debug\Protein Mağazası.exe.config
+C:\Users\PC\Desktop\BESFIT\Protein Mağazası\bin\Debug\Protein Mağazası.exe
+C:\Users\PC\Desktop\BESFIT\Protein Mağazası\bin\Debug\Protein Mağazası.pdb
+C:\Users\PC\Desktop\BESFIT\Protein Mağazası\bin\Debug\Bunifu.Charts.WinForms.xml
+C:\Users\PC\Desktop\BESFIT\Protein Mağazası\bin\Debug\Bunifu.UI.WinForms.xml
+C:\Users\PC\Desktop\BESFIT\Protein Mağazası\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\PC\Desktop\BESFIT\Protein Mağazası\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\PC\Desktop\BESFIT\Protein Mağazası\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+C:\Users\PC\Desktop\BESFIT\Protein Mağazası\bin\Debug\Microsoft.Win32.SystemEvents.xml
+C:\Users\PC\Desktop\BESFIT\Protein Mağazası\bin\Debug\Newtonsoft.Json.xml
+C:\Users\PC\Desktop\BESFIT\Protein Mağazası\bin\Debug\RestSharp.xml
+C:\Users\PC\Desktop\BESFIT\Protein Mağazası\bin\Debug\System.Buffers.xml
+C:\Users\PC\Desktop\BESFIT\Protein Mağazası\bin\Debug\System.CodeDom.xml
+C:\Users\PC\Desktop\BESFIT\Protein Mağazası\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\PC\Desktop\BESFIT\Protein Mağazası\bin\Debug\System.Data.Odbc.xml
+C:\Users\PC\Desktop\BESFIT\Protein Mağazası\bin\Debug\System.Data.OleDb.xml
+C:\Users\PC\Desktop\BESFIT\Protein Mağazası\bin\Debug\System.Data.SqlClient.xml
+C:\Users\PC\Desktop\BESFIT\Protein Mağazası\bin\Debug\System.Diagnostics.EventLog.xml
+C:\Users\PC\Desktop\BESFIT\Protein Mağazası\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+C:\Users\PC\Desktop\BESFIT\Protein Mağazası\bin\Debug\System.Drawing.Common.xml
+C:\Users\PC\Desktop\BESFIT\Protein Mağazası\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\Users\PC\Desktop\BESFIT\Protein Mağazası\bin\Debug\System.IO.Packaging.xml
+C:\Users\PC\Desktop\BESFIT\Protein Mağazası\bin\Debug\System.IO.Ports.xml
+C:\Users\PC\Desktop\BESFIT\Protein Mağazası\bin\Debug\System.Memory.xml
+C:\Users\PC\Desktop\BESFIT\Protein Mağazası\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\PC\Desktop\BESFIT\Protein Mağazası\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\PC\Desktop\BESFIT\Protein Mağazası\bin\Debug\System.Security.AccessControl.xml
+C:\Users\PC\Desktop\BESFIT\Protein Mağazası\bin\Debug\System.Security.Cryptography.Cng.xml
+C:\Users\PC\Desktop\BESFIT\Protein Mağazası\bin\Debug\System.Security.Cryptography.Pkcs.xml
+C:\Users\PC\Desktop\BESFIT\Protein Mağazası\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\PC\Desktop\BESFIT\Protein Mağazası\bin\Debug\System.Security.Cryptography.Xml.xml
+C:\Users\PC\Desktop\BESFIT\Protein Mağazası\bin\Debug\System.Security.Permissions.xml
+C:\Users\PC\Desktop\BESFIT\Protein Mağazası\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\PC\Desktop\BESFIT\Protein Mağazası\bin\Debug\System.ServiceModel.Syndication.xml
+C:\Users\PC\Desktop\BESFIT\Protein Mağazası\bin\Debug\System.ServiceProcess.ServiceController.xml
+C:\Users\PC\Desktop\BESFIT\Protein Mağazası\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\PC\Desktop\BESFIT\Protein Mağazası\bin\Debug\System.Threading.AccessControl.xml
+C:\Users\PC\Desktop\BESFIT\Protein Mağazası\obj\Debug\Protein Mağazası.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\BESFIT\Protein Mağazası\obj\Debug\Protein Mağazası.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\Desktop\BESFIT\Protein Mağazası\obj\Debug\Protein_Mağazası.Form1.resources
+C:\Users\PC\Desktop\BESFIT\Protein Mağazası\obj\Debug\Protein_Mağazası.KategoriForm.resources
+C:\Users\PC\Desktop\BESFIT\Protein Mağazası\obj\Debug\Protein_Mağazası.Properties.Resources.resources
+C:\Users\PC\Desktop\BESFIT\Protein Mağazası\obj\Debug\Protein_Mağazası.SatisFormu.resources
+C:\Users\PC\Desktop\BESFIT\Protein Mağazası\obj\Debug\Protein_Mağazası.SatıcıFormu.resources
+C:\Users\PC\Desktop\BESFIT\Protein Mağazası\obj\Debug\Protein_Mağazası.Splash.resources
+C:\Users\PC\Desktop\BESFIT\Protein Mağazası\obj\Debug\Protein_Mağazası.UrunFormu.resources
+C:\Users\PC\Desktop\BESFIT\Protein Mağazası\obj\Debug\Protein Mağazası.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\BESFIT\Protein Mağazası\obj\Debug\Protein Mağazası.exe.licenses
+C:\Users\PC\Desktop\BESFIT\Protein Mağazası\obj\Debug\Protein Mağazası.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\BESFIT\Protein Mağazası\obj\Debug\Protein Mağazası.csproj.Fody.CopyLocal.cache
+C:\Users\PC\Desktop\BESFIT\Protein Mağazası\obj\Debug\Protein Mağazası.csproj.CopyComplete
+C:\Users\PC\Desktop\BESFIT\Protein Mağazası\obj\Debug\Protein Mağazası.exe
+C:\Users\PC\Desktop\BESFIT\Protein Mağazası\obj\Debug\Protein Mağazası.pdb
+C:\Users\PC\Desktop\c#\BESFIT\Protein Mağazası\obj\Debug\Protein Mağazası.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\c#\BESFIT\Protein Mağazası\obj\Debug\Protein Mağazası.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\Desktop\c#\BESFIT\Protein Mağazası\obj\Debug\Protein_Mağazası.Form1.resources
+C:\Users\PC\Desktop\c#\BESFIT\Protein Mağazası\obj\Debug\Protein_Mağazası.KategoriForm.resources
+C:\Users\PC\Desktop\c#\BESFIT\Protein Mağazası\obj\Debug\Protein_Mağazası.Properties.Resources.resources
+C:\Users\PC\Desktop\c#\BESFIT\Protein Mağazası\obj\Debug\Protein_Mağazası.SatisFormu.resources
+C:\Users\PC\Desktop\c#\BESFIT\Protein Mağazası\obj\Debug\Protein_Mağazası.SatıcıFormu.resources
+C:\Users\PC\Desktop\c#\BESFIT\Protein Mağazası\obj\Debug\Protein_Mağazası.Splash.resources
+C:\Users\PC\Desktop\c#\BESFIT\Protein Mağazası\obj\Debug\Protein_Mağazası.UrunFormu.resources
+C:\Users\PC\Desktop\c#\BESFIT\Protein Mağazası\obj\Debug\Protein Mağazası.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\c#\BESFIT\Protein Mağazası\obj\Debug\Protein Mağazası.exe.licenses
+C:\Users\PC\Desktop\c#\BESFIT\Protein Mağazası\obj\Debug\Protein Mağazası.exe
+C:\Users\PC\Desktop\c#\BESFIT\Protein Mağazası\obj\Debug\Protein Mağazası.pdb
